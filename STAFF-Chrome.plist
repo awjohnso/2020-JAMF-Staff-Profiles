@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>HomepageIsNewTabPage</key>
+	<true/>
+	<key>HomepageLocation</key>
+	<string>https://www.stonybrook.edu</string>
+	<key>NewTabPageLocation</key>
+	<string>https://www.stonybrook.edu</string>
+	<key>RestoreOnStartup</key>
+	<integer>5</integer>
+	<key>ShowHomeButton</key>
+	<true/>
+	<key>WebDriverOverridesIncompatiblePolicies</key>
+	<false/>
+</dict>
+</plist>
